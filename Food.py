@@ -1,0 +1,2 @@
+print("beef")
+print("rice")
