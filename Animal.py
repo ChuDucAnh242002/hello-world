@@ -1,3 +1,7 @@
 print("mouse")
 print("cat")
 print("dog")
+print("pig")
+print("cow")
+print("sheep")
+print("buffalo")
