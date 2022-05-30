@@ -1,3 +1,6 @@
 print("typing test")
 print("chess")
 print("sudoku")
+print("space shooter")
+print("space invader")
+print("Snake")
